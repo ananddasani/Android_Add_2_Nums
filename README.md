@@ -36,6 +36,6 @@ Number2 = findViewById(R.id.Number2);
 
 # App Highlight
 
-<img src="app_images/Add Code.png" width="1000" /><br>
+<img src="app_images/AddCode.jpg" width="1000" /><br>
 
-<img src="app_images/Add App.png" width="300" /><br>
+<img src="app_images/AddApp.jpg" width="300" /><br>
