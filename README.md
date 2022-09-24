@@ -34,8 +34,8 @@ Number2 = findViewById(R.id.Number2);
         });
 ```
 
-# App Highlight
+#App Highlight
 
-<img src="app_images/AddCode.jpg" width="1000" /><br>
+![AddApp](https://user-images.githubusercontent.com/74413402/192092009-d2ab69a6-ffc5-4cd7-a358-6365a7069da2.jpg)
 
-<img src="app_images/AddApp.jpg" width="300" /><br>
+![AddCode](https://user-images.githubusercontent.com/74413402/192092066-599eb3af-b84e-46cb-9c73-2eb76ad2092c.jpg)
